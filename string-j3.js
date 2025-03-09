@@ -2,7 +2,7 @@ const name = 'Md. Jahid Miah Suyeb';
 console.log(name);
 const address = 'Kajalshah, Sylhet';
 console.log(address);
-const versity = 'Metropolitan University';
+const metropolitanUniversity= 'Tashin';
 console.log(versity);
 const fan = 'Habiba';
 console.log(fan);
