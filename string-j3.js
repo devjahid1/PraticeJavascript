@@ -1,16 +1,16 @@
-const name = 'Md. Jahid Miah Suyeb';
+const name = 'Md. Jahid Miah Suyeb';//1
 console.log(name);
-const address = 'Kajalshah, Sylhet';
+const address = 'Kajalshah, Sylhet';//2
 console.log(address);
-const metropolitanUniversity= 'Tashin';
+const metropolitanUniversity= 'Tashin';//3
 console.log(versity);
-const fan = 'Habiba';
+const fan = 'Habiba';//4
 console.log(fan);
-const movieOfTheYear = 'Twilights';
+const movieOfTheYear = 'Twilights';//5
 console.log(movieOfTheYear);
-const hobby = 'fishing';
+const hobby = 'fishing';//6
 console.log(hobby);
-const color = 'black';
+const color = 'black';//7
 console.log(color);
 
 

@@ -1,16 +1,16 @@
-const age = 22;
-console.log(age);
+const age = 22;//1
+console.log(age);//2
 const booksToRead = 4;
 console.log(booksToRead);
-const wakeUpTime = 7;
+const wakeUpTime = 7;//3
 console.log(wakeUpTime);
-const wastedTime = 4;
+const wastedTime = 4;//4
 console.log(wastedTime);
-const borrow = 50;
+const borrow = 50;//5
 console.log(borrow);
-const goal = 9;
+const goal = 9;//6
 console.log(goal);
-const pillow = 2;
+const pillow = 2;//7
 console.log(pillow);
 
 
