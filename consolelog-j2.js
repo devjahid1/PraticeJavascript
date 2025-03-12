@@ -1,6 +1,6 @@
 const age = 22;//1
-console.log(age);//2
-const booksToRead = 4;
+console.log(age);
+const booksToRead = 4;//2
 console.log(booksToRead);
 const wakeUpTime = 7;//3
 console.log(wakeUpTime);
