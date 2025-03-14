@@ -2,7 +2,7 @@
 let chotoBhai = 10;
 let boroBhai = 15;
 console.log(chotoBhai<=boroBhai);
-//2
+//2.
 let = passMark = 33;
 let = achiveMark = 45;
 console.log(passMark<achiveMark);
