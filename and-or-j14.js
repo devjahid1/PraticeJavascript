@@ -62,14 +62,9 @@ if(currentNai === true && mobileChargeNai === true){
 }
 //9
 let productPrice = 2000; 
-let coupon = 20;
-if(productPrice > 1000 && coupon === 20){
-    console.log((productPrice*coupon)/100);
+
+if(productPrice > 1000){
+    console.log((productPrice*20)/100);
 }else{
     console.log("kuno discount nai"); 
 }
-
-
-
-
-
