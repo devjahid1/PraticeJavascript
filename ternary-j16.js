@@ -13,17 +13,10 @@ isOilTankFull === true ? console.log("Ready for a long drive") : console.log("Fi
 //5
 let isExamPass = true;
 isExamPass === true ? console.log("Party Time") : console.log("Next Semester e serious Study korbo");
-;
+
 //6
 let sunny = false;
 sunny === false ? console.log("Stay Home"): console.log();
 //7
 let Expensive = false;
-Expensive === false ? console.log("Will buy this item") : console.log();
-;
-
-
-
-
-
- 
+Expensive === false ? console.log("Will buy this item") : console.log(); 
