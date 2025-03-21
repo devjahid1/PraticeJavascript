@@ -35,7 +35,6 @@ for(let i = 1; i <= 50; i++){
     if(i % 3 === 0 && i % 4 === 0){
         console.log(i);
         sum34+= i;
-        
     }
 }
 console.log(sum34);
