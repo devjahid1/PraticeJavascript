@@ -40,7 +40,7 @@ console.log(father);
  }
  //6
  const bird={
-    name: "panguin",
+    name: "penguin",
     color: "black",
     eat: "krill"
  }
