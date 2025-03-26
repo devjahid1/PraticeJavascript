@@ -29,7 +29,4 @@ console.log(sum([10, 20, 30]));
 const add = (a = 10, b = 5) => {
     return a + b;
 };
-
 console.log(add(5, 5));  
-
-
