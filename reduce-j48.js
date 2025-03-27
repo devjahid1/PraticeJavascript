@@ -22,7 +22,5 @@ const maxNumber = number.reduce((max, current) => {
 console.log(maxNumber); 
 //6
 const number1 = [100, 200, 300, 400];
-
 const sum1 = number1.reduce((total, current) => total + current, 50);
-
 console.log(sum1); 
