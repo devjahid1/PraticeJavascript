@@ -1,0 +1,21 @@
+//1
+if(false){
+    console.log("Truthy");
+}else{
+    console.log("Falsy");
+}
+//2
+if({}){
+    console.log("Truthy");
+}else{
+    console.log("Falsy");
+}
+//3
+if([]){
+    console.log("Truthy");
+}else{
+   
+    console.log("Falsy");
+}
+//4
+console.log(!![]);
